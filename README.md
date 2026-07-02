@@ -1,6 +1,3 @@
-I'll create a comprehensive GitHub README file for your VidarghaCar Game Center project. This README will help others understand, use, and contribute to your project.
-
-```markdown
 # 🚗 VidarghaCar Game Center
 
 > A car-themed mini-game hub inspired by YamatoCar — built with pure HTML, CSS, and JavaScript.
