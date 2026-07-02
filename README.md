@@ -1,4 +1,4 @@
-# 🚗 VidarghaCar Game Center
+# VidarghaCar Game Center
 
 > A car-themed mini-game hub inspired by YamatoCar — built with pure HTML, CSS, and JavaScript.
 
