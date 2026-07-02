@@ -40,39 +40,26 @@ The platform is designed to be:
 
 ---
 
-## ✨ Features
+## Features
 
 ### Current Features
-- 🎮 **Game Grid** — 6 car-themed mini-games displayed with icons and descriptions.
-- 👤 **Nickname System** — Users can enter a name and receive a personalized welcome.
-- 📰 **News Section** — Recent articles and updates displayed with date badges.
-- ❤️ **Support Call-to-Action** — Affiliate link notice and support button.
-- 🔗 **Navigation Menu** — Quick links to "How to Choose," "Profile," "Notice," "Blog," and "Contact."
-- 📱 **Fully Responsive** — Adapts seamlessly to all screen sizes.
-- 🎨 **Modern UI** — Clean, card-based design with subtle animations and hover effects.
+- **Game Grid** — 6 car-themed mini-games displayed with icons and descriptions.
+- **Nickname System** — Users can enter a name and receive a personalized welcome.
+- **News Section** — Recent articles and updates displayed with date badges.
+- **Support Call-to-Action** — Affiliate link notice and support button.
+- **Navigation Menu** — Quick links to "How to Choose," "Profile," "Notice," "Blog," and "Contact."
+- **Fully Responsive** — Adapts seamlessly to all screen sizes.
+- **Modern UI** — Clean, card-based design with subtle animations and hover effects.
 
 ### Planned Features
-- 🏎️ **Real Games** — Replace "coming soon" alerts with actual game logic.
-- 🏆 **Leaderboard** — Track high scores per game.
-- 🌙 **Dark Mode** — Toggle between light and dark themes.
-- 🔐 **User Profiles** — Save progress and game history.
-- 🌐 **Multi-language Support** — English, Japanese, and more.
+- **Real Games** — Replace "coming soon" alerts with actual game logic.
+- **Leaderboard** — Track high scores per game.
+- **Dark Mode** — Toggle between light and dark themes.
+- **User Profiles** — Save progress and game history.
+- **Multi-language Support** — English, Japanese, and more.
 
 ---
 
-## 🖥️ Demo
-
-### Live Preview
-You can view a live demo of the project here:  
-🔗 **[VidarghaCar Game Center Demo](https://your-demo-link.com)** *(Replace with your live URL)*
-
-### Screenshots
-
-| Desktop View | Mobile View |
-|:---:|:---:|
-| ![Desktop Screenshot](https://via.placeholder.com/600x400/2a6f97/ffffff?text=Desktop+View) | ![Mobile Screenshot](https://via.placeholder.com/300x600/2a6f97/ffffff?text=Mobile+View) |
-
----
 
 ## 🛠️ Technologies Used
 
