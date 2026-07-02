@@ -2,7 +2,7 @@
 
 > A car-themed mini-game hub inspired by YamatoCar — built with pure HTML, CSS, and JavaScript.
 
-![VidarghaCar Banner](https://via.placeholder.com/1200x400/2a6f97/ffffff?text=VidarghaCar+Game+Center)
+<img width="1884" height="1073" alt="image" src="https://github.com/user-attachments/assets/2589016a-f9cb-4bf9-8a7a-ce3e2e3f9123" />
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -11,7 +11,7 @@
 
 ---
 
-## 📖 Table of Contents
+## Table of Contents
 
 - [About the Project](#about-the-project)
 - [Features](#features)
