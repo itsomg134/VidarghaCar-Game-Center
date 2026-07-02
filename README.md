@@ -102,7 +102,7 @@ The platform is designed to be:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 vidarghacar-game-center/
@@ -125,7 +125,7 @@ vidarghacar-game-center/
 
 ---
 
-## 🎨 Customization Guide
+## Customization Guide
 
 ### 1. Change the Branding
 
@@ -202,7 +202,7 @@ Replace the `alert()` in the `onclick` attribute with actual game logic or a lin
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Here's how you can help:
 
