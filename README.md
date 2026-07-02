@@ -61,7 +61,7 @@ The platform is designed to be:
 ---
 
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Technology | Purpose |
 |:---|:---|
@@ -74,7 +74,7 @@ The platform is designed to be:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Any modern web browser (Chrome, Firefox, Edge, Safari)
@@ -185,7 +185,7 @@ Replace the `alert()` in the `onclick` attribute with actual game logic or a lin
 
 ---
 
-## 🗺️ Roadmap
+## Roadmap
 
 - [x] Initial HTML/CSS/JS structure
 - [x] Responsive design
