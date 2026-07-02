@@ -28,7 +28,7 @@
 
 ---
 
-## 🎯 About the Project
+## About the Project
 
 **VidarghaCar Game Center** is a browser-based game hub where users can play car-themed mini-games. It was created as a fun, interactive project inspired by the **YamatoCar** website, with a unique "Vidargha" branding twist.
 
